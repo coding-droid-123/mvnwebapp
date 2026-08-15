@@ -1,0 +1,21 @@
+# Maven
+
+target/
+
+
+
+# Eclipse
+
+.settings/
+
+.project
+
+.classpath
+
+
+
+# Mac/Windows hidden files
+
+.DS_Store
+
+Thumbs.db
